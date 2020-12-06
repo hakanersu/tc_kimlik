@@ -1,6 +1,6 @@
 # TC Kimlik
 
-Tc kimlik is a validator and utility tools for Turkish identification numbers.
+Turkish identifacation number validator and generator.
 
 ### Validating
 
