@@ -3,7 +3,6 @@ name = "tc_kimlik"
 version = "0.1.0"
 authors = ["Hakan ERSU <hakanersu@gmail.com>"]
 edition = "2018"
-
-# Validates turkish identifacation number
-
+description = "Turkish identifacation number validation and tools."
+license = "MIT"
 [dependencies]
